@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Dheemanth</h1>
+<h3 align="center">Aspiring Software Engineer • Backend Developer • CS Engineering Student</h3>
+
+---
+
 # 💫 About Me:
 🛠 I'm currently working on:<br>Building a personal wallet app and learning backend architecture with Node.js and Express.<br><br>🤝 I'm looking to collaborate on:<br>Open-source backend or AI projects that help people learn or solve real problems.<br><br>🔍 I'm looking for help with:<br>Improving database optimization and deploying scalable services.<br><br>📚 I'm currently learning:<br>MongoDB, WebSockets, JWT authentication, and a bit of React.<br><br>💬 Ask me about:<br>Backend development, C++, Node.js, or building real-world beginner-friendly projects.<br><br>⚡ Fun fact:<br>I’m a black belt in karate, a sports lover, and I never skip leg day—except when debugging takes over 😄.
 
@@ -17,5 +22,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dheemanth07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
