@@ -3,7 +3,7 @@
 
 <br>
 <h2 align="center">💫 About Me:</h2> 
-🛠 **I'm currently working on:** Building a personal wallet app and learning backend architecture with Node.js and Express.
+🛠 I'm currently working on: Building a personal wallet app and learning backend architecture with Node.js and Express.
 
 🤝 **I'm looking to collaborate on:** Open-source backend or AI projects that help people learn or solve real problems.
 
