@@ -4,7 +4,6 @@
 ## Currently Working on...
 
 * **MAVIS (MultiModel Animal Vitality Intelligence System):** Building an AI-driven IoT ecosystem for animal health monitoring.
-* **InsightPay:** Developing a secure personal wallet application with a robust transaction architecture and QR integration.
 
 <br>
 <div align="center">
